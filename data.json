@@ -1,0 +1,1148 @@
+{
+    "courses": [
+      {
+        "id": "1",
+        "purchasedBy": [
+          
+        ],
+        "title": "Curso de HTML",
+        "image": "https://www.hiperbytes.com.br/wp-content/uploads/2021/02/banner-curso-html.png",
+        "price": 1000,
+        "instructor": "Juan Pérez",
+        "description": "Aprende los fundamentos de HTML para construir páginas web.",
+        "totalDuration": "8 horas",
+        "topics": [
+          {
+            "title": "Introducción a HTML",
+            "image": "https://www.hiperbytes.com.br/wp-content/uploads/2021/02/banner-curso-html.png",
+            "subtopics": [
+              {
+                "title": "¿Qué es HTML?",
+                "videos": [
+                  {
+                    "title": "Video 1: Introducción a HTML",
+                    "url": "https://www.youtube.com/watch?v=10GHKjgQIR0"
+                  }
+                ]
+              },
+              {
+                "title": "Estructura de un Documento HTML",
+                "videos": [
+                  {
+                    "title": "Video 2: Estructura básica",
+                    "url": "https://www.youtube.com/watch?v=UJWtKJAdDTM"
+                  }
+                ]
+              },
+              {
+                "title": "Etiquetas HTML Comunes",
+                "videos": [
+                  {
+                    "title": "Video 3: Etiquetas básicas",
+                    "url": "https://www.youtube.com/watch?v=BGj1mD9Eoe4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Elementos HTML",
+            "subtopics": [
+              {
+                "title": "Listas",
+                "videos": [
+                  {
+                    "title": "Video 1: Listas desordenadas y ordenadas",
+                    "url": "https://youtu.be/4gy9rY3ihJs?si=TD5MzMzyEJnvPeXI"
+                  }
+                ]
+              },
+              {
+                "title": "Tablas",
+                "videos": [
+                  {
+                    "title": "Video 2: Creando tablas",
+                    "url": "https://youtu.be/SjVFCsBPzWU?si=IOjFUgxZkFHdyr8I"
+                  }
+                ]
+              },
+              {
+                "title": "Formularios",
+                "videos": [
+                  {
+                    "title": "Video 3: Estructura de formularios",
+                    "url": "https://youtu.be/tpCOfg1FgPw?si=atiqeN_IFd6n-yfq"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "purchasedBy": [
+          "880e"
+        ],
+        "title": "Curso de CSS",
+        "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/784297df-0fee-4f34-adb8-2b9923cfe190/imagen_curso_completo_v2.jpg?t=1716117183",
+        "price": 2000,
+        "instructor": "María González",
+        "description": "Aprende a dar estilo a tus páginas web con CSS.",
+        "totalDuration": "6 horas",
+        "topics": [
+          {
+            "title": "Introducción a CSS",
+            "subtopics": [
+              {
+                "title": "¿Qué es CSS?",
+                "videos": [
+                  {
+                    "title": "Video 1: Introducción a CSS",
+                    "url": "https://youtu.be/pyymbdGf450?si=B65Lbgq1IaEnRctD"
+                  }
+                ]
+              },
+              {
+                "title": "Selectores en CSS",
+                "videos": [
+                  {
+                    "title": "Video 2: Tipos de selectores",
+                    "url": "https://youtu.be/SlD7lK8oTPU?si=jIh3Q5AmVS6VaCTO"
+                  }
+                ]
+              },
+              {
+                "title": "Propiedades Básicas",
+                "videos": [
+                  {
+                    "title": "Video 3: Propiedades comunes",
+                    "url": "https://youtu.be/5eFJ-RA_LCA?si=f7cqiS31iZMfMx_Z"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Estilos de Texto",
+            "subtopics": [
+              {
+                "title": "Fuentes",
+                "videos": [
+                  {
+                    "title": "Video 1: Tipos de fuentes",
+                    "url": "https://youtu.be/uiHoVDpjfk0?si=jAxPaTEk-MTImI8R"
+                  }
+                ]
+              },
+              {
+                "title": "Colores",
+                "videos": [
+                  {
+                    "title": "Video 2: Colores en CSS",
+                    "url": "https://youtu.be/4CC1wxHQQ5k?si=ZDG_h8WXrr_PMo5n"
+                  }
+                ]
+              },
+              {
+                "title": "Alineación de Texto",
+                "videos": [
+                  {
+                    "title": "Video 3: Alineación y espaciado",
+                    "url": "https://youtu.be/O_nLYMvEbak?si=fRl1Ho62EzvLkpDo"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "purchasedBy": [],
+        "title": "Curso de JavaScript (Vanilla)",
+        "image": "https://d3puay5pkxu9s4.cloudfront.net/curso/12511/800_imagen.jpg",
+        "price": 4000,
+        "instructor": "Laura Martínez",
+        "description": "Descubre los fundamentos de JavaScript y la programación web.",
+        "totalDuration": "10 horas",
+        "topics": [
+          {
+            "title": "Introducción a JavaScript",
+            "subtopics": [
+              {
+                "title": "¿Qué es JavaScript?",
+                "videos": [
+                  {
+                    "title": "Video 1: Introducción a JavaScript",
+                    "url": "https://youtu.be/odnLWsAe3lM?si=CMppS94xPsM83wPC"
+                  }
+                ]
+              },
+              {
+                "title": "Sintaxis Básica",
+                "videos": [
+                  {
+                    "title": "Video 2: Sintaxis y operadores",
+                    "url": "https://youtu.be/8g5h8lwfuWc?si=utvfOmeb9Vw7TUrD"
+                  }
+                ]
+              },
+              {
+                "title": "Variables y Tipos de Datos",
+                "videos": [
+                  {
+                    "title": "Video 3: Variables en JavaScript",
+                    "url": "https://youtu.be/cf1UFRukxA8?si=FpYKBYlWgObHotbj"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Funciones en JavaScript",
+            "subtopics": [
+              {
+                "title": "Definición de Funciones",
+                "videos": [
+                  {
+                    "title": "Video 1: Creando funciones",
+                    "url": "https://youtu.be/10hVKeSwx88?si=rX7fPEedH2aNmIq1"
+                  }
+                ]
+              },
+              {
+                "title": "Funciones Flecha",
+                "videos": [
+                  {
+                    "title": "Video 2: Usando funciones flecha",
+                    "url": "https://youtu.be/HVEkbCZAuqA?si=gEZ1DOhcKthpPXhb"
+                  }
+                ]
+              },
+              {
+                "title": "Parámetros y Retornos",
+                "videos": [
+                  {
+                    "title": "Video 3: Parámetros en funciones",
+                    "url": "https://youtu.be/e3EyqGnb6XM?si=_1MQjx6YRPioDmmi"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Estructuras de Control",
+            "subtopics": [
+              {
+                "title": "Condicionales",
+                "videos": [
+                  {
+                    "title": "Video 1: Usando condicionales",
+                    "url": "https://youtu.be/oqTpGpy4WDo?si=_X7aIg1H8RGdSu7y"
+                  }
+                ]
+              },
+              {
+                "title": "Bucles",
+                "videos": [
+                  {
+                    "title": "Video 2: Tipos de bucles",
+                    "url": "https://youtu.be/v7Iqs_TReLM?si=wq3TbM-ag5nJ8LQ4"
+                  }
+                ]
+              },
+              {
+                "title": "Switch",
+                "videos": [
+                  {
+                    "title": "Video 3: Estructura switch",
+                    "url": "https://youtu.be/fP-5psZySBA?si=Jz5ZMYVuIYYvzRNI"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "quizzes": [
+      {
+        "id": "1",
+        "title": "HTML Basico",
+        "questions": [
+          {
+            "id": 1,
+            "question": "¿Qué significa HTML?",
+            "options": [
+              {
+                "id": "a",
+                "text": "Hyper Text Markup Language"
+              },
+              {
+                "id": "b",
+                "text": "High Text Markup Language"
+              },
+              {
+                "id": "c",
+                "text": "Hyper Text Multi Language"
+              },
+              {
+                "id": "d",
+                "text": "Hyperlink and Text Markup Language"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 2,
+            "question": "¿Cuál es la etiqueta para el título de una página?",
+            "options": [
+              {
+                "id": "a",
+                "text": "<h1>"
+              },
+              {
+                "id": "b",
+                "text": "<title>"
+              },
+              {
+                "id": "c",
+                "text": "<header>"
+              },
+              {
+                "id": "d",
+                "text": "<head>"
+              }
+            ],
+            "correctAnswerId": "b"
+          },
+          {
+            "id": 3,
+            "question": "¿Cuál de las siguientes etiquetas se usa para crear un enlace?",
+            "options": [
+              {
+                "id": "a",
+                "text": "<link>"
+              },
+              {
+                "id": "b",
+                "text": "<a>"
+              },
+              {
+                "id": "c",
+                "text": "<url>"
+              },
+              {
+                "id": "d",
+                "text": "<href>"
+              }
+            ],
+            "correctAnswerId": "b"
+          },
+          {
+            "id": 4,
+            "question": "¿Cómo se cierra una etiqueta en HTML?",
+            "options": [
+              {
+                "id": "a",
+                "text": "/nombreEtiqueta"
+              },
+              {
+                "id": "b",
+                "text": "<nombreEtiqueta/>"
+              },
+              {
+                "id": "c",
+                "text": "</nombreEtiqueta>"
+              },
+              {
+                "id": "d",
+                "text": "<nombreEtiqueta>"
+              }
+            ],
+            "correctAnswerId": "c"
+          },
+          {
+            "id": 5,
+            "question": "¿Qué etiqueta se utiliza para insertar una imagen?",
+            "options": [
+              {
+                "id": "a",
+                "text": "<image>"
+              },
+              {
+                "id": "b",
+                "text": "<img>"
+              },
+              {
+                "id": "c",
+                "text": "<picture>"
+              },
+              {
+                "id": "d",
+                "text": "<src>"
+              }
+            ],
+            "correctAnswerId": "b"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Etiquetas HTML",
+        "questions": [
+          {
+            "id": 1,
+            "question": "¿Cuál es la etiqueta para crear una lista desordenada?",
+            "options": [
+              {
+                "id": "a",
+                "text": "<ul>"
+              },
+              {
+                "id": "b",
+                "text": "<ol>"
+              },
+              {
+                "id": "c",
+                "text": "<list>"
+              },
+              {
+                "id": "d",
+                "text": "<li>"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 2,
+            "question": "¿Qué etiqueta se utiliza para crear una tabla?",
+            "options": [
+              {
+                "id": "a",
+                "text": "<table>"
+              },
+              {
+                "id": "b",
+                "text": "<tab>"
+              },
+              {
+                "id": "c",
+                "text": "<tr>"
+              },
+              {
+                "id": "d",
+                "text": "<tbody>"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 3,
+            "question": "¿Cuál de las siguientes etiquetas se utiliza para crear un formulario?",
+            "options": [
+              {
+                "id": "a",
+                "text": "<input>"
+              },
+              {
+                "id": "b",
+                "text": "<form>"
+              },
+              {
+                "id": "c",
+                "text": "<submit>"
+              },
+              {
+                "id": "d",
+                "text": "<field>"
+              }
+            ],
+            "correctAnswerId": "b"
+          },
+          {
+            "id": 4,
+            "question": "¿Qué etiqueta se utiliza para definir una fila en una tabla?",
+            "options": [
+              {
+                "id": "a",
+                "text": "<tr>"
+              },
+              {
+                "id": "b",
+                "text": "<td>"
+              },
+              {
+                "id": "c",
+                "text": "<th>"
+              },
+              {
+                "id": "d",
+                "text": "<row>"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 5,
+            "question": "¿Cuál de las siguientes opciones se utiliza para agrupar elementos en un formulario?",
+            "options": [
+              {
+                "id": "a",
+                "text": "<fieldset>"
+              },
+              {
+                "id": "b",
+                "text": "<group>"
+              },
+              {
+                "id": "c",
+                "text": "<section>"
+              },
+              {
+                "id": "d",
+                "text": "<formgroup>"
+              }
+            ],
+            "correctAnswerId": "a"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "CSS BASICO",
+        "questions": [
+          {
+            "id": 1,
+            "question": "¿Qué significa CSS?",
+            "options": [
+              {
+                "id": "a",
+                "text": "Cascading Style Sheets"
+              },
+              {
+                "id": "b",
+                "text": "Creative Style System"
+              },
+              {
+                "id": "c",
+                "text": "Color Style Sheets"
+              },
+              {
+                "id": "d",
+                "text": "Cascading Style System"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 2,
+            "question": "¿Cuál de los siguientes es un selector de clase?",
+            "options": [
+              {
+                "id": "a",
+                "text": ".mi-clase"
+              },
+              {
+                "id": "b",
+                "text": "#mi-id"
+              },
+              {
+                "id": "c",
+                "text": "mi-elemento"
+              },
+              {
+                "id": "d",
+                "text": "elemento"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 3,
+            "question": "¿Cuál es la forma correcta de aplicar un color a un texto?",
+            "options": [
+              {
+                "id": "a",
+                "text": "color: red;"
+              },
+              {
+                "id": "b",
+                "text": "text-color: red;"
+              },
+              {
+                "id": "c",
+                "text": "font-color: red;"
+              },
+              {
+                "id": "d",
+                "text": "background-color: red;"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 4,
+            "question": "¿Qué propiedad se usa para cambiar el tamaño de la fuente?",
+            "options": [
+              {
+                "id": "a",
+                "text": "font-size"
+              },
+              {
+                "id": "b",
+                "text": "text-size"
+              },
+              {
+                "id": "c",
+                "text": "size"
+              },
+              {
+                "id": "d",
+                "text": "font-style"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 5,
+            "question": "¿Cuál es la forma correcta de incluir CSS en un documento HTML?",
+            "options": [
+              {
+                "id": "a",
+                "text": "<link rel='stylesheet' href='estilos.css'>"
+              },
+              {
+                "id": "b",
+                "text": "<style src='estilos.css'></style>"
+              },
+              {
+                "id": "c",
+                "text": "<css>estilos.css</css>"
+              },
+              {
+                "id": "d",
+                "text": "<script src='estilos.css'></script>"
+              }
+            ],
+            "correctAnswerId": "a"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Estilos",
+        "questions": [
+          {
+            "id": 1,
+            "question": "¿Cómo se define un color en CSS?",
+            "options": [
+              {
+                "id": "a",
+                "text": "color: #fff;"
+              },
+              {
+                "id": "b",
+                "text": "color: 'white';"
+              },
+              {
+                "id": "c",
+                "text": "color: 'rgb(255, 255, 255)';"
+              },
+              {
+                "id": "d",
+                "text": "color: white;"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 2,
+            "question": "¿Qué propiedad se usa para cambiar la familia de fuentes?",
+            "options": [
+              {
+                "id": "a",
+                "text": "font-family"
+              },
+              {
+                "id": "b",
+                "text": "font-type"
+              },
+              {
+                "id": "c",
+                "text": "text-family"
+              },
+              {
+                "id": "d",
+                "text": "typeface"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 3,
+            "question": "¿Qué propiedad se usa para alinear el texto?",
+            "options": [
+              {
+                "id": "a",
+                "text": "text-align"
+              },
+              {
+                "id": "b",
+                "text": "align"
+              },
+              {
+                "id": "c",
+                "text": "text-position"
+              },
+              {
+                "id": "d",
+                "text": "align-text"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 4,
+            "question": "¿Cómo se establece el espaciado entre letras?",
+            "options": [
+              {
+                "id": "a",
+                "text": "letter-spacing"
+              },
+              {
+                "id": "b",
+                "text": "spacing"
+              },
+              {
+                "id": "c",
+                "text": "text-spacing"
+              },
+              {
+                "id": "d",
+                "text": "font-spacing"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 5,
+            "question": "¿Qué valor se usa para centrar el texto?",
+            "options": [
+              {
+                "id": "a",
+                "text": "center"
+              },
+              {
+                "id": "b",
+                "text": "middle"
+              },
+              {
+                "id": "c",
+                "text": "align"
+              },
+              {
+                "id": "d",
+                "text": "justify"
+              }
+            ],
+            "correctAnswerId": "a"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "title": "JS Basico",
+        "questions": [
+          {
+            "id": 1,
+            "question": "¿Qué significa JS?",
+            "options": [
+              {
+                "id": "a",
+                "text": "Java Syntax"
+              },
+              {
+                "id": "b",
+                "text": "JavaScript"
+              },
+              {
+                "id": "c",
+                "text": "Java Server"
+              },
+              {
+                "id": "d",
+                "text": "Java Standard"
+              }
+            ],
+            "correctAnswerId": "b"
+          },
+          {
+            "id": 2,
+            "question": "¿Cuál es la forma correcta de declarar una variable?",
+            "options": [
+              {
+                "id": "a",
+                "text": "let miVariable"
+              },
+              {
+                "id": "b",
+                "text": "variable miVariable"
+              },
+              {
+                "id": "c",
+                "text": "miVariable = var"
+              },
+              {
+                "id": "d",
+                "text": "let: miVariable"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 3,
+            "question": "¿Qué tipo de dato es un array?",
+            "options": [
+              {
+                "id": "a",
+                "text": "Objeto"
+              },
+              {
+                "id": "b",
+                "text": "Número"
+              },
+              {
+                "id": "c",
+                "text": "Cadena"
+              },
+              {
+                "id": "d",
+                "text": "Array"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 4,
+            "question": "¿Qué operador se usa para asignar un valor?",
+            "options": [
+              {
+                "id": "a",
+                "text": "="
+              },
+              {
+                "id": "b",
+                "text": "=="
+              },
+              {
+                "id": "c",
+                "text": "==="
+              },
+              {
+                "id": "d",
+                "text": "->"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 5,
+            "question": "¿Cómo se llama la función para mostrar una alerta?",
+            "options": [
+              {
+                "id": "a",
+                "text": "alert()"
+              },
+              {
+                "id": "b",
+                "text": "console.log()"
+              },
+              {
+                "id": "c",
+                "text": "prompt()"
+              },
+              {
+                "id": "d",
+                "text": "confirm()"
+              }
+            ],
+            "correctAnswerId": "a"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "title": "JS (Funciones)",
+        "questions": [
+          {
+            "id": 1,
+            "question": "¿Cómo se define una función en JavaScript?",
+            "options": [
+              {
+                "id": "a",
+                "text": "function miFuncion() {}"
+              },
+              {
+                "id": "b",
+                "text": "def miFuncion() {}"
+              },
+              {
+                "id": "c",
+                "text": "function: miFuncion {}"
+              },
+              {
+                "id": "d",
+                "text": "func miFuncion() {}"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 2,
+            "question": "¿Qué es una función flecha?",
+            "options": [
+              {
+                "id": "a",
+                "text": "Una función que se llama a sí misma"
+              },
+              {
+                "id": "b",
+                "text": "Una forma más corta de escribir funciones"
+              },
+              {
+                "id": "c",
+                "text": "Una función que no tiene parámetros"
+              },
+              {
+                "id": "d",
+                "text": "Una función con múltiples retornos"
+              }
+            ],
+            "correctAnswerId": "b"
+          },
+          {
+            "id": 3,
+            "question": "¿Cómo se pasa un parámetro a una función?",
+            "options": [
+              {
+                "id": "a",
+                "text": "miFuncion(parametro)"
+              },
+              {
+                "id": "b",
+                "text": "miFuncion[parametro]"
+              },
+              {
+                "id": "c",
+                "text": "miFuncion: parametro"
+              },
+              {
+                "id": "d",
+                "text": "miFuncion->parametro"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 4,
+            "question": "¿Qué palabra clave se usa para retornar un valor?",
+            "options": [
+              {
+                "id": "a",
+                "text": "return"
+              },
+              {
+                "id": "b",
+                "text": "retornar"
+              },
+              {
+                "id": "c",
+                "text": "yield"
+              },
+              {
+                "id": "d",
+                "text": "break"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 5,
+            "question": "¿Cuál es el resultado de una función sin un return?",
+            "options": [
+              {
+                "id": "a",
+                "text": "undefined"
+              },
+              {
+                "id": "b",
+                "text": "null"
+              },
+              {
+                "id": "c",
+                "text": "0"
+              },
+              {
+                "id": "d",
+                "text": "false"
+              }
+            ],
+            "correctAnswerId": "a"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Estructuras de Control",
+        "questions": [
+          {
+            "id": 1,
+            "question": "¿Qué palabra clave se usa para una estructura condicional?",
+            "options": [
+              {
+                "id": "a",
+                "text": "if"
+              },
+              {
+                "id": "b",
+                "text": "when"
+              },
+              {
+                "id": "c",
+                "text": "switch"
+              },
+              {
+                "id": "d",
+                "text": "for"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 2,
+            "question": "¿Qué estructura se usa para repetir un bloque de código?",
+            "options": [
+              {
+                "id": "a",
+                "text": "for"
+              },
+              {
+                "id": "b",
+                "text": "repeat"
+              },
+              {
+                "id": "c",
+                "text": "while"
+              },
+              {
+                "id": "d",
+                "text": "do"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 3,
+            "question": "¿Qué se usa para comparar valores?",
+            "options": [
+              {
+                "id": "a",
+                "text": "=="
+              },
+              {
+                "id": "b",
+                "text": "==="
+              },
+              {
+                "id": "c",
+                "text": "!="
+              },
+              {
+                "id": "d",
+                "text": "todos"
+              }
+            ],
+            "correctAnswerId": "d"
+          },
+          {
+            "id": 4,
+            "question": "¿Qué valor se devuelve en una estructura switch si no hay coincidencias?",
+            "options": [
+              {
+                "id": "a",
+                "text": "undefined"
+              },
+              {
+                "id": "b",
+                "text": "null"
+              },
+              {
+                "id": "c",
+                "text": "0"
+              },
+              {
+                "id": "d",
+                "text": "false"
+              }
+            ],
+            "correctAnswerId": "a"
+          },
+          {
+            "id": 5,
+            "question": "¿Cuál es el resultado de un bucle infinito?",
+            "options": [
+              {
+                "id": "a",
+                "text": "Error"
+              },
+              {
+                "id": "b",
+                "text": "Ejecuta indefinidamente"
+              },
+              {
+                "id": "c",
+                "text": "No se ejecuta"
+              },
+              {
+                "id": "d",
+                "text": "Termina"
+              }
+            ],
+            "correctAnswerId": "b"
+          }
+        ]
+      }
+    ],
+    "users": [
+      {
+        "id": "4f13",
+        "nombre": "Emanuel",
+        "phoneNumber": "3012314750",
+        "email": "charagomezemanuel@gmail.com",
+        "password": "12345",
+        "coins": 1000,
+        "cards": [
+          {
+            "cardName": "Visa",
+            "cardNumber": "456987456321",
+            "expire": "04/05",
+            "cvv": "1256"
+          },
+          {
+            "cardName": "MasterCard",
+            "cardNumber": "4569874521",
+            "expire": "02/12",
+            "cvv": "123654"
+          },
+          {
+            "cardName": "Visa",
+            "cardNumber": "8526",
+            "expire": "78/59",
+            "cvv": "4562"
+          }
+        ]
+      }
+    ]
+  }
